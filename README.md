@@ -1,5 +1,5 @@
 # WalletWiz - Budget Tracker App
-
+Part 3
 ![WalletWiz Logo](app/src/main/res/drawable/ic_wallet.xml)
 
 ## Overview
